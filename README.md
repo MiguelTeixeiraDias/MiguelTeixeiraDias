@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://miguelteixeiradias.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF3B3B?style=for-the-badge&logo=googlechrome&logoColor=170505" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/miguel-dias-948699211"><img src="https://img.shields.io/badge/LinkedIn-12161A?style=for-the-badge&logo=linkedin&logoColor=EEF2F5" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/miguel-dias-dev"><img src="https://img.shields.io/badge/LinkedIn-12161A?style=for-the-badge&logo=linkedin&logoColor=EEF2F5" alt="LinkedIn" /></a>
   <a href="mailto:migdias21@gmail.com"><img src="https://img.shields.io/badge/Email-12161A?style=for-the-badge&logo=gmail&logoColor=EEF2F5" alt="Email" /></a>
 </p>
 
