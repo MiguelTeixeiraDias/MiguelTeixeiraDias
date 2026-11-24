@@ -32,6 +32,10 @@ I build real-world applications in **C#**, **Python** and **SQL**, and I care ab
 | `01` | **[Progressive](https://github.com/MiguelTeixeiraDias/Progressive)** | Fitness app · Mobile & PWA. A training log that pushes back: every set tracked, every gain measured. | [Live ↗](https://progressive.expo.app) |
 | `02` | **Barbell & Brew POS** | Point of sale · PWA. One installable app that runs the whole coffee bar, from the till to the back office. | [Live ↗](https://barbell-brew-pos-demo.onrender.com) |
 | `03` | **CodeSight** | Developer tool · Code intelligence. See how your codebase actually fits together. | [Live ↗](https://codesight-client-hqpp.onrender.com) |
+| `04` | **Okera** | Marketing site · Next.js. Website for a design-driven digital studio: cinematic, orange-on-black, with scroll-based motion. | `Private` |
+| `05` | **Momentz** | Archviz portfolio · HTML, CSS & JS. Gallery site for a 3D visualisation and rendering studio. | `Private` |
+| `06` | **[portfolio](https://github.com/MiguelTeixeiraDias/portfolio)** | Personal site · HTML & CSS. My portfolio: about, stack, journey, work and contact. | [Live ↗](https://miguelteixeiradias.github.io/portfolio/) |
+| `07` | **[BookingSystem](https://github.com/MiguelTeixeiraDias/BookingSystem)** | Booking system. In progress. | `WIP` |
 
 <sub>More on the work, and the story behind it, on my <a href="https://miguelteixeiradias.github.io/portfolio/"><b>portfolio →</b></a></sub>
 
