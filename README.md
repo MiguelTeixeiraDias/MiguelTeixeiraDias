@@ -1,57 +1,55 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:89CFF0&height=180&section=header&text=Hi,%20I'm%20Miguel&fontSize=42&fontColor=ffffff&fontAlignY=38" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0C0E&height=170&section=header&text=MIGUEL%20DIAS&fontSize=64&fontColor=EEF2F5&fontAlignY=42&desc=a%20software%20DEVELOPER&descSize=18&descAlignY=72&descAlign=50&descColor=FF3B3B" alt="Miguel Dias - a software developer" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/MiguelTeixeiraDias">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=89CFF0&center=true&vCenter=true&width=600&lines=Junior+Software+Developer+%40+Thoughtware;C%23+%E2%80%A2+ASP.NET+Core+MVC+%E2%80%A2+TypeScript;Always+learning+through+hands-on+projects" alt="Typing intro" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=16&duration=2800&pause=900&color=8C979F&center=true&vCenter=true&width=620&lines=Hello+%E2%80%A2+Hallo+%E2%80%A2+Ol%C3%A1;I+build+real-world+apps+in+C%23%2C+Python+and+SQL;Clean+code.+Software+people+find+easy+to+use." alt="Hello, Hallo, Olá" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MiguelTeixeiraDias&color=89CFF0&style=flat-square&label=Profile+views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/MiguelTeixeiraDias?style=flat-square&color=89CFF0&labelColor=0d1117" alt="Followers" />
+  <a href="https://miguelteixeiradias.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF3B3B?style=for-the-badge&logo=googlechrome&logoColor=170505" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/miguel-dias-948699211"><img src="https://img.shields.io/badge/LinkedIn-12161A?style=for-the-badge&logo=linkedin&logoColor=EEF2F5" alt="LinkedIn" /></a>
+  <a href="mailto:migdias21@gmail.com"><img src="https://img.shields.io/badge/Email-12161A?style=for-the-badge&logo=gmail&logoColor=EEF2F5" alt="Email" /></a>
 </p>
 
 ---
 
-### 🧑‍💻 About me
+### `/about`
 
-- 💼 Junior Software Developer at **Thoughtware** (Sandton, Johannesburg)
-- 🎓 Studying a **BSc in Computer and Information Sciences** (Application Development) at IIE Varsity College
-- 🛠️ I build practical web apps with **C#** and **ASP.NET Core MVC**, and side projects in **TypeScript**
-- 🌍 Based in Kempton Park, Johannesburg, South Africa
-- 🌱 Always learning and improving through hands-on projects
+I'm a junior software developer in my third year of a **BSc in Computer and Information Sciences** (Application Development).
+I build real-world applications in **C#**, **Python** and **SQL**, and I care about clean code and software people find easy to use.
 
-### 🧰 Tech stack
+### `/stack`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,git,github,visualstudio,vscode&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,postgres,ts,js,html,css,git,github,visualstudio,vscode&theme=dark&perline=12" alt="Tech stack" />
 </p>
 
-### 🚀 Featured projects
+### `/work`
 
-| Project | What it is | Built with |
-|---|---|---|
-| [**Progressive**](https://github.com/MiguelTeixeiraDias/Progressive) | My own progressive web app | TypeScript |
-| [**BookingSystem**](https://github.com/MiguelTeixeiraDias/BookingSystem) | A booking system (🚧 in progress) | — |
-| [**portfolio**](https://github.com/MiguelTeixeiraDias/portfolio) | My personal portfolio site: CV, projects and contact | HTML / CSS |
+| | Project | What it is | |
+|---|---|---|---|
+| `01` | **[Progressive](https://github.com/MiguelTeixeiraDias/Progressive)** | Fitness app · Mobile & PWA. A training log that pushes back: every set tracked, every gain measured. | [Live ↗](https://progressive.expo.app) |
+| `02` | **Barbell & Brew POS** | Point of sale · PWA. One installable app that runs the whole coffee bar, from the till to the back office. | [Live ↗](https://barbell-brew-pos-demo.onrender.com) |
+| `03` | **CodeSight** | Developer tool · Code intelligence. See how your codebase actually fits together. | [Live ↗](https://codesight-client-hqpp.onrender.com) |
 
-### 📊 GitHub stats
+<sub>More on the work, and the story behind it, on my <a href="https://miguelteixeiradias.github.io/portfolio/"><b>portfolio →</b></a></sub>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MiguelTeixeiraDias&show_icons=true&hide_border=true&bg_color=0d1117&title_color=89CFF0&icon_color=89CFF0&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelTeixeiraDias&layout=compact&hide_border=true&bg_color=0d1117&title_color=89CFF0&text_color=c9d1d9" alt="Top languages" />
-</p>
+### `/stats`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MiguelTeixeiraDias&hide_border=true&background=0d1117&ring=89CFF0&fire=89CFF0&currStreakLabel=89CFF0&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MiguelTeixeiraDias&show_icons=true&bg_color=0A0C0E&border_color=232A30&title_color=FF3B3B&icon_color=FF3B3B&text_color=EEF2F5&ring_color=FF3B3B&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelTeixeiraDias&layout=compact&bg_color=0A0C0E&border_color=232A30&title_color=FF3B3B&text_color=EEF2F5" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelTeixeiraDias&bg_color=0d1117&color=c9d1d9&line=89CFF0&point=ffffff&area=true&area_color=89CFF0&hide_border=true" alt="Contribution graph" />
+  <img src="https://streak-stats.demolab.com?user=MiguelTeixeiraDias&background=0A0C0E&border=232A30&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B&sideLabels=8C979F&currStreakNum=EEF2F5&sideNums=EEF2F5&dates=8C979F&stroke=232A30" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:0d1117&height=100&section=footer" alt="Footer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelTeixeiraDias&bg_color=0A0C0E&color=8C979F&line=FF3B3B&point=EEF2F5&area=true&area_color=FF3B3B&hide_border=true" alt="Contribution graph" />
 </p>
+
+### `/contact`
+
+Always up for a conversation about software, internships or interesting problems. **[Let's talk →](https://miguelteixeiradias.github.io/portfolio/)**
